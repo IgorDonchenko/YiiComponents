@@ -1,5 +1,5 @@
 <?php
     return [
     'id' => 'school',
-    'basePath' => realpath(__DIR__ . '/../../')
+    'basePath' => realpath(__DIR__ . '/../')
 ];
